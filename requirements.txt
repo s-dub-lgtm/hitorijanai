@@ -1,4 +1,9 @@
-flake8==3.7.8
 autopep8==1.4.4
-slackclient==2.2.0
+EmoPy==0.0.5
+flake8==3.7.8
+Flask==1.1.1
 ibm-watson==3.4.1
+Keras==2.2.4
+opencv-python==4.1.1.26
+scipy==1.1.0
+slackclient==2.2.0
